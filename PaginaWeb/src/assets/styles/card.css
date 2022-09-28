@@ -1,0 +1,31 @@
+.parrafo {
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(255, 255, 255);
+    background-color: rgba(0, 0, 0, 0.692);
+    width: 60%;
+    height: auto;
+    padding: 8px;
+    text-align: justify;
+    margin-left: 10px;
+}
+
+.dissplay {
+    display: flex;
+    margin: auto;
+    width: 800px;
+}
+
+img {
+    padding-top: 2%;
+    width: 300px;
+    height: 150px;
+    padding-bottom: 2%;
+}
+
+.titulo {
+    margin: auto;
+    width: 800px;
+    font-family: monospace;
+    color: aliceblue;
+    background: linear-gradient(0deg, rgb(60, 51, 187) 0%, rgba(140, 29, 192, 0.699) 80%);
+}

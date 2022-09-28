@@ -1,0 +1,8 @@
+#root {
+  height: auto;
+  width: 100%;
+  margin: 0;
+  padding: 0rem;
+  text-align: center;
+  background: linear-gradient(0deg, rgba(39,30,214,1) 0%, rgba(0,0,0,1) 80%);
+}
